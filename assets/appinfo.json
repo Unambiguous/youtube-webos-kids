@@ -4,14 +4,14 @@
   "vendor": "My Company",
   "type": "web",
   "main": "index.html",
-  "title": "YouTube AdFree",
+  "title": "YouTube AdFree Kids",
   "icon": "icon.png",
   "largeIcon": "largeIcon.png",
-  "iconColor": "#ff0000",
+  "iconColor": "#9800fe",
   "support360Content": true,
   "checkUpdateOnLaunch": false,
   "accessibility": {
-    "supportsAudioGuidance": true
+    "supportsAudioGuidance": false
   },
   "vendorExtension": {
     "userAgent": "$browserName$/$browserVersion$ ($platformName$-$platformVersion$), _TV_O18/$firmwareVersion$ (LG, $modelName$, $networkMode$)",
