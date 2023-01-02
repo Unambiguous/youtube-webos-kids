@@ -5,7 +5,7 @@ process.exit(
     'node',
     [
       './node_modules/@webosose/ares-cli/bin/ares-install.js',
-      `./youtube.leanback.v4_${process.env.npm_package_version}_all.ipk`
+      `./youtube.leanback_kids.v4_${process.env.npm_package_version}_all.ipk`
     ],
     { stdio: 'inherit' }
   ).status

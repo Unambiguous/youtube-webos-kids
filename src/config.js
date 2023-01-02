@@ -1,4 +1,4 @@
-const CONFIG_KEY = 'ytaf-configuration';
+const CONFIG_KEY = 'ytafk-configuration';
 const defaultConfig = {
   enableAdBlock: true,
   enableSponsorBlock: true,

@@ -1,6 +1,6 @@
 {
-  "id": "youtube.leanback.v4",
-  "version": "0.3.1",
+  "id": "youtube.leanback_kids.v4",
+  "version": "0.3.104",
   "vendor": "My Company",
   "type": "web",
   "main": "index.html",
@@ -25,7 +25,7 @@
   "trustLevel": "netcast",
   "privilegedJail": true,
   "supportQuickStart": true,
-  "dialAppName": "YouTube",
+  "dialAppName": "YouTube Kids",
   "disableBackHistoryAPI": true,
   "supportGIP": true
 }
